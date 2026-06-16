@@ -1,0 +1,7 @@
+{
+  "n_factors": 35,
+  "lr": 0.02,
+  "reg": 0.12,
+  "n_epochs": 38,
+  "best_rmse": 0.823616
+}
